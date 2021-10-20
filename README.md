@@ -1,3 +1,3 @@
-# DS
-<h1>Data structure<h1>
+# Data structure
+Data structure
 Wednesday 10:05 
