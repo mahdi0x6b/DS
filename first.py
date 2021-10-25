@@ -28,9 +28,9 @@ def delete(item,arr):
 
 arr = [1, 3, 4, 6, 8, 9, 12, 14, 16, 17, 27, 33, 45, 51, 53, 63, 69, 70]
 item = 16
-print("[+] Index of %s (Normal search): "%(item) + str(bsearch(arr, item,0,len(arr))))
+print("[+] Index of %s (Binary search): "%(item) + str(bsearch(arr, item,0,len(arr))))
 
-print("[+] Index of %s (Binary search): "%(item) + str(search(item,arr)))
+print("[+] Index of %s (Normal search): "%(item) + str(search(item,arr)))
 
 lst = ["a","b","c","d"]
 
